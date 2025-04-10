@@ -33,16 +33,16 @@ Welcome to my GitHub profile! I'm a seasoned technologist and developer with ove
 ![Rajesh Patrao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rlpatrao&show_icons=true&theme=radical)
 
 ## 🗂️ Work Experience Highlights
-	**Enterprise Architecture & Leadership**
-Led architecture strategy, standardization, and solution governance across global teams. Developed reusable patterns, enabled cross-functional collaboration, and ensured scalable, future-ready systems.
-	**AI & Data Science**
-Applied NLP, ML, and LLMs to solve domain-specific problems in life sciences and healthcare. Built predictive models, RAG systems, and AI-driven platforms using Python, R, and BERT.
-	**Product & Platform Engineering
-Spearheaded design and development of platforms for scientific publishing, risk management, drug repurposing, and regulatory transitions. Delivered patented solutions integrating public and private datasets.
-	**Technical & Domain Expertise**
-Deep expertise in Life Sciences, Healthcare, and Insurance with strong skills in data visualization (Spotfire, R-Shiny, D3.js), full-stack development (Java, Spring, Hadoop), and cloud architecture.
-	**Leadership & Collaboration**
-Directed global engineering teams, managed agile and waterfall deliveries, and worked with academic, business, and technology stakeholders to bring innovative solutions to life.
+	- **Enterprise Architecture & Leadership**
+		- Led architecture strategy, standardization, and solution governance across global teams. Developed reusable patterns, enabled cross-functional collaboration, and ensured scalable, future-ready systems.
+	- **AI & Data Science**
+		- Applied NLP, ML, and LLMs to solve domain-specific problems in life sciences and healthcare. Built predictive models, RAG systems, and AI-driven platforms using Python, R, and BERT.
+	- **Product & Platform Engineering
+		- Spearheaded design and development of platforms for scientific publishing, risk management, drug repurposing, and regulatory transitions. Delivered patented solutions integrating public and private datasets.
+	- **Technical & Domain Expertise**
+		- Deep expertise in Life Sciences, Healthcare, and Insurance with strong skills in data visualization (Spotfire, R-Shiny, D3.js), full-stack development (Java, Spring, Hadoop), and cloud architecture.
+	- **Leadership & Collaboration**
+		- Directed global engineering teams, managed agile and waterfall deliveries, and worked with academic, business, and technology stakeholders to bring innovative solutions to life.
 
 ## 🎓 Key Trainings and Certifications
 - **Bizbok Business Architecture Training**
